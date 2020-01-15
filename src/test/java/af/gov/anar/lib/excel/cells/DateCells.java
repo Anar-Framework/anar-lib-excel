@@ -1,8 +1,8 @@
 
 package af.gov.anar.lib.excel.cells;
 
+import af.gov.anar.lib.excel.ECell;
 import com.jcabi.immutable.Array;
-import com.vgv.excel.io.ECell;
 
 import java.util.Date;
 import java.util.stream.Collectors;

@@ -1,6 +1,7 @@
 
 package af.gov.anar.lib.excel.cells;
 
+import af.gov.anar.lib.excel.ECell;
 import com.jcabi.immutable.Array;
 
 import java.util.Calendar;
