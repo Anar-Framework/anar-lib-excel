@@ -1,8 +1,9 @@
 
 package af.gov.anar.lib.excel.templates;
 
-import com.vgv.excel.io.ECell;
-import com.vgv.excel.io.Style;
+
+import af.gov.anar.lib.excel.ECell;
+import af.gov.anar.lib.excel.Style;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
