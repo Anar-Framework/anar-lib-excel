@@ -1,8 +1,8 @@
 
 package af.gov.anar.lib.excel.test;
-import af.gov.anar.lib.excel.test.cells.TextCell;
-import af.gov.anar.lib.excel.test.styles.ForegroundColor;
-import af.gov.anar.lib.excel.test.cells.TextCells;
+import af.gov.anar.lib.excel.cells.TextCell;
+import af.gov.anar.lib.excel.styles.ForegroundColor;
+import af.gov.anar.lib.excel.cells.TextCells;
 import af.gov.anar.lib.excel.XsRow;
 import af.gov.anar.lib.excel.XsStyle;
 import org.apache.poi.ss.usermodel.IndexedColors;
