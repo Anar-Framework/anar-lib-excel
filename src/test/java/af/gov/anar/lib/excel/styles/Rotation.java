@@ -1,6 +1,7 @@
 
 package af.gov.anar.lib.excel.styles;
 
+import af.gov.anar.lib.excel.Props;
 import org.apache.poi.ss.usermodel.CellStyle;
 
 /**

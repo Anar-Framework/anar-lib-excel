@@ -1,7 +1,7 @@
 
 package af.gov.anar.lib.excel.props.row;
 
-import com.vgv.excel.io.Props;
+import af.gov.anar.lib.excel.Props;
 import org.apache.poi.ss.usermodel.Row;
 
 /**

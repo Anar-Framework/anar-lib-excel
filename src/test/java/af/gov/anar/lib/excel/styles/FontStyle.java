@@ -1,8 +1,8 @@
 
 package af.gov.anar.lib.excel.styles;
 
+import af.gov.anar.lib.excel.Props;
 import com.jcabi.immutable.Array;
-import com.vgv.excel.io.Props;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.Font;
 import org.apache.poi.xssf.usermodel.XSSFCellStyle;
