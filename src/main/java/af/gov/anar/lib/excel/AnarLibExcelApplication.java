@@ -1,4 +1,4 @@
-package af.gov.anar.lib.excel.anarlibexcel;
+package af.gov.anar.lib.excel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
