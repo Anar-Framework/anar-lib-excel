@@ -20,7 +20,7 @@
 		<jackson.databind.version>2.10.1</jackson.databind.version>
 		<poi.version>4.1.1</poi.version>
 		<jcabi.version>1.4</jcabi.version>
-		<cactoos.version>0.43</cactoos.version>
+		<cactoos.version>0.40</cactoos.version>
 		<hamcrast.version>2.2</hamcrast.version>
 	</properties>
 
@@ -53,15 +53,10 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.cactoos/cactoos -->
-<!--		<dependency>-->
-<!--			<groupId>org.cactoos</groupId>-->
-<!--			<artifactId>cactoos</artifactId>-->
-<!--			<version>${cactoos.version}</version>-->
-<!--		</dependency>-->
 		<dependency>
 			<groupId>org.cactoos</groupId>
 			<artifactId>cactoos</artifactId>
-			<version>0.29</version>
+			<version>${cactoos.version}</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core -->
