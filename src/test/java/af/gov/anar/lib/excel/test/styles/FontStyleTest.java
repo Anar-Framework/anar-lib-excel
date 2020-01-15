@@ -12,12 +12,6 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-/**
- * Test for {@link FontStyle}.
- * @author Vedran Vatavuk (123vgv@gmail.com)
- * @version $Id$
- * @since 0.3
- */
 @SuppressWarnings("PMD.AvoidUsingShortType")
 public final class FontStyleTest {
 
