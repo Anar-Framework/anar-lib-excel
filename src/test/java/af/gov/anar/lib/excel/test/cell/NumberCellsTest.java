@@ -1,7 +1,7 @@
 
 package af.gov.anar.lib.excel.test.cell;
 
-import af.gov.anar.lib.excel.ECell;
+import af.gov.anar.lib.excel.cells.ECell;
 import af.gov.anar.lib.excel.cells.NumberCell;
 import af.gov.anar.lib.excel.cells.NumberCells;
 import com.jcabi.immutable.Array;

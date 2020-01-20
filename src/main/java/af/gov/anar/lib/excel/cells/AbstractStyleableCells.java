@@ -1,8 +1,7 @@
 package af.gov.anar.lib.excel.cells;
 
 
-import af.gov.anar.lib.excel.ECells;
-import af.gov.anar.lib.excel.Style;
+import af.gov.anar.lib.excel.styles.Style;
 
 /**
  * Multiple cells which styles can be edited.

@@ -1,7 +1,7 @@
 
 package af.gov.anar.lib.excel.test.template;
 
-import af.gov.anar.lib.excel.XsStyle;
+import af.gov.anar.lib.excel.styles.XsStyle;
 import af.gov.anar.lib.excel.styles.FillPattern;
 import af.gov.anar.lib.excel.styles.ForegroundColor;
 import af.gov.anar.lib.excel.templates.StyleTemplate;

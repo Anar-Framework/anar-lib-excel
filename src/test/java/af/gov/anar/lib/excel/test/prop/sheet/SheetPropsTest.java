@@ -2,8 +2,8 @@
 package af.gov.anar.lib.excel.test.prop.sheet;
 
 
-import af.gov.anar.lib.excel.XsProps;
-import af.gov.anar.lib.excel.XsSheet;
+import af.gov.anar.lib.excel.props.XsProps;
+import af.gov.anar.lib.excel.sheet.XsSheet;
 import af.gov.anar.lib.excel.props.sheet.DefaultColumnWidth;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;

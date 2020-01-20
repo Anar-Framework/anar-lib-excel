@@ -1,8 +1,7 @@
 
 package af.gov.anar.lib.excel.cells;
 
-import af.gov.anar.lib.excel.ECell;
-import af.gov.anar.lib.excel.Style;
+import af.gov.anar.lib.excel.styles.Style;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 

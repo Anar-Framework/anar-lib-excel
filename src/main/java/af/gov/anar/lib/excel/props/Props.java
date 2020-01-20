@@ -1,5 +1,5 @@
 
-package af.gov.anar.lib.excel;
+package af.gov.anar.lib.excel.props;
 
 import java.util.function.Consumer;
 

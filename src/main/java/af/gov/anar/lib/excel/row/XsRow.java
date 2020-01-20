@@ -1,6 +1,10 @@
 
-package af.gov.anar.lib.excel;
+package af.gov.anar.lib.excel.row;
 
+import af.gov.anar.lib.excel.cells.ECell;
+import af.gov.anar.lib.excel.cells.ECells;
+import af.gov.anar.lib.excel.props.Props;
+import af.gov.anar.lib.excel.styles.Style;
 import com.jcabi.immutable.Array;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;

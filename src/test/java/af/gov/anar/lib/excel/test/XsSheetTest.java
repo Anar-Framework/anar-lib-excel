@@ -1,9 +1,9 @@
 
 package af.gov.anar.lib.excel.test;
 
-import af.gov.anar.lib.excel.XsRow;
-import af.gov.anar.lib.excel.XsSheet;
-import af.gov.anar.lib.excel.XsStyle;
+import af.gov.anar.lib.excel.row.XsRow;
+import af.gov.anar.lib.excel.sheet.XsSheet;
+import af.gov.anar.lib.excel.styles.XsStyle;
 
 import af.gov.anar.lib.excel.cells.TextCell;
 import af.gov.anar.lib.excel.styles.ForegroundColor;

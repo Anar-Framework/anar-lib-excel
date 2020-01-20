@@ -2,8 +2,8 @@
 package af.gov.anar.lib.excel.test.prop.row;
 
 
-import af.gov.anar.lib.excel.XsProps;
-import af.gov.anar.lib.excel.XsRow;
+import af.gov.anar.lib.excel.props.XsProps;
+import af.gov.anar.lib.excel.row.XsRow;
 import af.gov.anar.lib.excel.props.row.HeightInPoints;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Workbook;

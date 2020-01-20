@@ -1,7 +1,7 @@
 
 package af.gov.anar.lib.excel.props.sheet;
 
-import af.gov.anar.lib.excel.Props;
+import af.gov.anar.lib.excel.props.Props;
 import org.apache.poi.ss.usermodel.Sheet;
 
 /**
